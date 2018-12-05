@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: com.learning.junit.CalculatorTest
+-------------------------------------------------------------------------------
+Tests run: 6, Failures: 0, Errors: 1, Skipped: 1, Time elapsed: 0.204 sec <<< FAILURE! - in com.learning.junit.CalculatorTest
+displayTest{String}  Time elapsed: 0.029 sec  <<< ERROR!
+org.junit.jupiter.api.extension.ParameterResolutionException: No ParameterResolver registered for parameter [java.lang.String arg0] in executable [public void com.learning.junit.CalculatorTest.displayTest(java.lang.String)].
+

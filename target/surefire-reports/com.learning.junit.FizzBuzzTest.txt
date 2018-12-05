@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: com.learning.junit.FizzBuzzTest
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.036 sec <<< FAILURE! - in com.learning.junit.FizzBuzzTest
+testfizz  Time elapsed: 0.031 sec  <<< FAILURE!
+org.opentest4j.AssertionFailedError: expected: <3> but was: <1>
+	at com.learning.junit.FizzBuzzTest.testfizz(FizzBuzzTest.java:24)
+
